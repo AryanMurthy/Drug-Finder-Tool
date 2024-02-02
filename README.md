@@ -28,11 +28,6 @@ The Multi-Output Text Classifier Model harnesses the combined power of text proc
 
 5. **Prediction and Evaluation:** Once trained, the model is ready for making predictions. Given a new drug name, the model predicts uses and dosage for that particular drug. The model's predictive accuracy is assessed using appropriate metrics. Notably, the accuracy score reached 1.0. You can review the training code in the "pynotebook/drug_finder_kaggle.ipynb" file.
 
-## Model Deployment
-
-Accessing the compressed model is seamless through the HuggingFace Spaces Gradio App. You can find the implementation directly via this [HuggingFace Spaces Link](https://huggingface.co/spaces/nasrin2023ripa/medicine-library).
-
-![Gradio App](deployment/app_image2.png)
 
 ## Use Cases
 
