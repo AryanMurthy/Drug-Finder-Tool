@@ -34,13 +34,6 @@ Accessing the compressed model is seamless through the HuggingFace Spaces Gradio
 
 ![Gradio App](deployment/app_image2.png)
 
-## Web Deployment
-
-We've also developed an intuitive Flask application that allows users to input drug descriptions and receive predictions for four key outputs: drug name, uses, dosage, and side effects. The live application can be accessed via this [render Webpage](https://drug-finder.onrender.com/).
-
-![Flask App Home](deployment/flask_home.png)
-![Flask App Results](deployment/flsk_results.png)
-
 ## Use Cases
 
 The Multi-Output Text Classifier Model finds applications in a wide range of domains where a single input text needs to be classified into multiple categories or labels. Our model serves diverse use cases, including aiding doctors in researching specific medications, providing knowledge to the general public about particular drugs, and more. However, it is essential to note that this model's predictions should not replace professional medical advice. Users should exercise caution and manually verify predicted outputs, especially if there are discrepancies for a specific input description.
