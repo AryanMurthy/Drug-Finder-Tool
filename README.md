@@ -1,4 +1,4 @@
-# Drug Finder 💉💊
+# MedFind
 ## A Multi-Output Text Classifier Model 
 
 ## Background 
