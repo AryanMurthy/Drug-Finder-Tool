@@ -59,8 +59,3 @@ To utilize this model, you'll need:
 
 - Python 3.x
 - The following libraries: pandas, scikit-learn, joblib, gradio (for user interface)
-
-### Acknowledgments
-
-This project was developed as the final capstone project of the Dokkho Data Science Program (cohort 2) at MasterCourse Bangladesh. Special thanks to our instructor, Mohammad Sabik Irbaz, and the entire team at MasterCourse Bangladesh for their support.
-
